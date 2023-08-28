@@ -27,3 +27,8 @@ a:hover {
 .container {
   text-align: center;
 }
+.cake-photo {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+}
